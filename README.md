@@ -3,8 +3,11 @@
 ## Objetivo: 
 O desafio é desenvolver a página inicial de um site de avaliação de filmes (IMDB - Internet Movies Database) utilizando apenas **HTML5** e **CSS3**.
 
-> **Preview:**
+> **Modelo:**
 > 👉 [IMDB Codenation](https://aceleradev-react.netlify.com/aula-01/public/)
+
+> **Minha Versão:**
+> 👉 [WL-IMDB-Codenation](https://wl-codenation-imdb.netlify.com)
 
 ## Tópicos:
 Neste desafio, você vai praticar os seus conhecimentos em:
